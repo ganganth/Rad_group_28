@@ -1,0 +1,24 @@
+.content{
+    margin: auto;
+    margin-bottom: 30%;
+}
+.buttons{
+    margin-left: 25%;
+    display: flex;
+    width: 50%;
+    height: 10vh;
+    background-color: dodgerblue;
+    font-family: Calibri,'Gill Sans', 'Gill Sans MT',  'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+}
+.space{
+    margin-bottom: 10%;
+}
+.buttons:hover{
+    background-color: royalblue;
+}
